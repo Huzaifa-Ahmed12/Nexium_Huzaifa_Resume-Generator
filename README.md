@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Recruma - AI-Powered Resume Builder
 
 Recruma is a modern, AI-powered resume builder that helps you create professional resumes that stand out. Built with Next.js and featuring beautiful templates, our platform combines cutting-edge design with intelligent optimization.
@@ -64,3 +65,6 @@ To learn more about Next.js, take a look at the following resources:
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# Nexium_Huzaifa_Resume-Generator
+>>>>>>> 9f2a4880aeb703b27b811db75872e7d064b0da3b
